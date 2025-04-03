@@ -2,7 +2,6 @@ Backend RESTful API diseñado con TypeScript, Express, y arquitectura basada en 
 Conexión a base de datos MySQL + manejo de autenticación con JWT. Proyecto modular, escalable y mantenible.
 
 # ARCHITECTURE: DDD Design
-# DI is created by investify
 
 |-- /src
 |   |-- /application
